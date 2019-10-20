@@ -18,6 +18,7 @@
 .DS_Store
 .eslintcache
 **/.ipynb_checkpoints/**
+*.csv
 
 # logs
 logs
